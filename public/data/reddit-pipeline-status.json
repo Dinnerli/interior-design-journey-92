@@ -1,0 +1,21 @@
+{
+  "lastRunAt": "2026-11-14T12:18:26.612Z",
+  "subredditsConfigured": 2,
+  "status": "success",
+  "mode": "feed",
+  "postsReturned": 133,
+  "newPosts": 3,
+  "totalPosts": 136,
+  "perSubreddit": [
+    {
+      "name": "srilanka",
+      "category": "sri-lanka",
+      "postsThisRun": 100
+    },
+    {
+      "name": "InteriorDesign",
+      "category": "interior-design",
+      "postsThisRun": 33
+    }
+  ]
+}

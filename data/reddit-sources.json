@@ -1,0 +1,6 @@
+{
+  "subreddits": [
+    { "name": "srilanka", "category": "sri-lanka", "enabled": true },
+    { "name": "InteriorDesign", "category": "interior-design", "enabled": true }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "searches": [
+    { "query": "\"Sri Lanka\"", "category": "sri-lanka", "enabled": true },
+    { "query": "\"interior design\"", "category": "interior-design", "lang": "en", "enabled": true }
+  ]
+}

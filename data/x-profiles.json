@@ -1,0 +1,4 @@
+{
+  "_comment": "X (Twitter) profiles the weekly pipeline collects through the official X API. Each entry: { \"handle\": \"username without @\", \"category\": \"any label you like\", \"enabled\": true }",
+  "profiles": []
+}

@@ -1,0 +1,231 @@
+{
+  "builtAt": "2026-11-14T12:20:07.932Z",
+  "columns": [
+    "source",
+    "dataset",
+    "post_id",
+    "timestamp",
+    "text",
+    "category",
+    "sentiment",
+    "language",
+    "has_link",
+    "likes",
+    "comments",
+    "shares",
+    "is_spam",
+    "group_name",
+    "group_category",
+    "group_url",
+    "post_url",
+    "collected_at"
+  ],
+  "totalRows": 5735,
+  "globalRows": 5000,
+  "facebookGroupRows": 95,
+  "xRows": 0,
+  "redditRows": 136,
+  "blueskyRows": 504,
+  "datasets": [
+    {
+      "id": "haoxianc/kalashnikov1405_facebook-text-classification",
+      "license": "CC0-1.0",
+      "rows": 5000
+    }
+  ],
+  "groups": [
+    {
+      "label": "EPFS Community for Free",
+      "category": "epfs",
+      "enabled": true,
+      "rows": 20
+    },
+    {
+      "label": "EPFS Community Sri Lanka - 100% Free - Public Group",
+      "category": "epfs",
+      "enabled": true,
+      "rows": 18
+    },
+    {
+      "label": "EPFS Community Sri Lanka (private group - cannot be collected)",
+      "category": "epfs",
+      "enabled": false,
+      "rows": 0
+    },
+    {
+      "label": "Interior Design Sri Lanka",
+      "category": "sri-lanka",
+      "enabled": true,
+      "rows": 19
+    },
+    {
+      "label": "Architects in Sri Lanka",
+      "category": "sri-lanka",
+      "enabled": true,
+      "rows": 19
+    },
+    {
+      "label": "Sri Lankan Interior Design",
+      "category": "sri-lanka",
+      "enabled": true,
+      "rows": 19
+    }
+  ],
+  "xProfiles": [],
+  "subreddits": [
+    {
+      "label": "r/srilanka",
+      "category": "sri-lanka",
+      "enabled": true,
+      "rows": 103
+    },
+    {
+      "label": "r/InteriorDesign",
+      "category": "interior-design",
+      "enabled": true,
+      "rows": 33
+    }
+  ],
+  "blueskySearches": [
+    {
+      "label": "\"Sri Lanka\"",
+      "category": "sri-lanka",
+      "enabled": true,
+      "rows": 252
+    },
+    {
+      "label": "\"interior design\"",
+      "category": "interior-design",
+      "enabled": true,
+      "rows": 252
+    }
+  ],
+  "preview": [
+    {
+      "source": "facebook-group",
+      "timestamp": "2026-11-14T07:38:56.000Z",
+      "text": "​🚨 Looking for an Architect for an Eco-Cabana Project in Kegalle!\n​🚨 Looking for an Architect for an Eco-Cabana Project in Kegalle!\nSeeking an experienced ...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "1",
+      "group_name": "Architects in Sri Lanka"
+    },
+    {
+      "source": "facebook-group",
+      "timestamp": "2026-11-14T07:35:34.000Z",
+      "text": "Hi, I'm looking for a 1-bedroom annex in Dehiwala, Mount Lavinia, or Ratmalana.\nHi, I'm looking for a 1-bedroom annex in Dehiwala, Mount Lavinia, or Ratmalan...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "0",
+      "group_name": "EPFS Community Sri Lanka - 100% Free - Public Group"
+    },
+    {
+      "source": "facebook-group",
+      "timestamp": "2026-11-14T07:32:27.000Z",
+      "text": "Package 2300   𝗢𝗙𝗙𝗘𝗥 ‼️\nFor Plant Collectors 🪴 \nවර්ග 10 ම - Rs. 990\n\nලබා දෙන පැළ අවසන් පින්තුරය බලන්න.\n\n 🛒 𝗢𝗿𝗱𝗲𝗿 𝗡𝗼𝘄\n\n🚚 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 𝗠𝗲...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "0",
+      "group_name": "Interior Design Sri Lanka"
+    },
+    {
+      "source": "reddit",
+      "timestamp": "2026-11-14T12:06:20Z",
+      "text": "Does anyone know a basketball club near Kalutara?\n\n19M here. I finished school recently. I want to get myself to a sport, which I never did in school. (I reg...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "",
+      "group_name": "r/srilanka"
+    },
+    {
+      "source": "reddit",
+      "timestamp": "2026-11-14T11:51:09Z",
+      "text": "Is it financially possible to live alone on an 80K monthly salary in Sri Lanka?\n\nI'm a 28M earning around Rs. 80,000 per month, and I'm considering renting a...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "",
+      "group_name": "r/srilanka"
+    },
+    {
+      "source": "reddit",
+      "timestamp": "2026-11-14T11:38:23Z",
+      "text": "Advice to Youngsters from an 35 YO Unc - Part 02\n\nI recently posted a few advice to youngsters and it got a lot of positive feedback. A lit of you were askin...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "",
+      "group_name": "r/srilanka"
+    },
+    {
+      "source": "bluesky",
+      "timestamp": "2026-11-14T12:05:30.330740+00:00",
+      "text": "UNESCO World: Central Highlands of Sri Lanka\n\nSri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wil...",
+      "category": "",
+      "sentiment": "",
+      "language": "en",
+      "likes": "0",
+      "group_name": "search: \"Sri Lanka\""
+    },
+    {
+      "source": "bluesky",
+      "timestamp": "2026-11-14T12:04:17.541065330Z",
+      "text": "Anuk Arudpragasam, sobre su novela ‘Pasaje al norte’: «Nació de un deseo tanto de castigarme por haber escapado del genocidio tamil como de curar, en el espa...",
+      "category": "",
+      "sentiment": "",
+      "language": "",
+      "likes": "1",
+      "group_name": "search: \"Sri Lanka\""
+    },
+    {
+      "source": "bluesky",
+      "timestamp": "2026-11-14T11:44:35.073Z",
+      "text": "The hardest interior design judge has arrived. Will she accept the changed placement of her bed on my desk?",
+      "category": "",
+      "sentiment": "",
+      "language": "en",
+      "likes": "4",
+      "group_name": "search: \"interior design\""
+    },
+    {
+      "source": "global",
+      "timestamp": "2024-11-25 10:10:00",
+      "text": "Mental health matters. Take a break. 🎉",
+      "category": "health_wellness",
+      "sentiment": "negative",
+      "language": "hi",
+      "likes": "4"
+    },
+    {
+      "source": "global",
+      "timestamp": "2025-03-28 14:41:00",
+      "text": "Having trouble logging into my Stark account—any fix?",
+      "category": "customer_support",
+      "sentiment": "neutral",
+      "language": "en",
+      "likes": "8"
+    },
+    {
+      "source": "global",
+      "timestamp": "2025-05-20 02:31:00",
+      "text": "When you open the fridge and forget why you came: 🔥 #relatable",
+      "category": "meme_joke",
+      "sentiment": "positive",
+      "language": "en",
+      "likes": "74"
+    },
+    {
+      "source": "global",
+      "timestamp": "2025-01-31 16:39:00",
+      "text": "In-depth: What market rally means for New York.",
+      "category": "news",
+      "sentiment": "neutral",
+      "language": "en",
+      "likes": "10"
+    }
+  ]
+}

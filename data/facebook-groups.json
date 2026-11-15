@@ -1,0 +1,41 @@
+{
+  "_comment": "Groups the weekly pipeline scrapes through Bright Data. Only PUBLIC groups can be collected. Each entry: { \"url\": \"https://www.facebook.com/groups/...\", \"label\": \"Name\", \"category\": \"sri-lanka\" or \"epfs\", \"enabled\": true }",
+  "groups": [
+    {
+      "url": "https://www.facebook.com/groups/1988894801378664",
+      "label": "EPFS Community for Free",
+      "category": "epfs",
+      "enabled": true
+    },
+    {
+      "url": "https://www.facebook.com/groups/479111125955377",
+      "label": "EPFS Community Sri Lanka - 100% Free - Public Group",
+      "category": "epfs",
+      "enabled": true
+    },
+    {
+      "url": "https://www.facebook.com/groups/562900073758799",
+      "label": "EPFS Community Sri Lanka (private group - cannot be collected)",
+      "category": "epfs",
+      "enabled": false
+    },
+    {
+      "url": "https://www.facebook.com/groups/175162353823750",
+      "label": "Interior Design Sri Lanka",
+      "category": "sri-lanka",
+      "enabled": true
+    },
+    {
+      "url": "https://www.facebook.com/groups/111390542318487",
+      "label": "Architects in Sri Lanka",
+      "category": "sri-lanka",
+      "enabled": true
+    },
+    {
+      "url": "https://www.facebook.com/groups/654663095107350",
+      "label": "Sri Lankan Interior Design",
+      "category": "sri-lanka",
+      "enabled": true
+    }
+  ]
+}

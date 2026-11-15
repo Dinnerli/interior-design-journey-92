@@ -1,0 +1,23 @@
+{
+  "_comment": "Global Hugging Face datasets merged into the combined CSV. 'columns' maps the unified column name to the column name in the source dataset; leave a column out if the source has no equivalent.",
+  "datasets": [
+    {
+      "id": "haoxianc/kalashnikov1405_facebook-text-classification",
+      "file": "kalashnikov1405_facebook-text-classification.csv",
+      "license": "CC0-1.0",
+      "columns": {
+        "post_id": "post_id",
+        "timestamp": "timestamp",
+        "text": "text",
+        "category": "category",
+        "sentiment": "sentiment",
+        "language": "language",
+        "has_link": "has_link",
+        "likes": "likes",
+        "comments": "comments",
+        "shares": "shares",
+        "is_spam": "is_spam"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.section-padding {
+  @apply py-24;
+}
+
+.heading-xl {
+  @apply text-4xl md:text-5xl lg:text-6xl font-display font-medium tracking-tight;
+}
+
+.heading-lg {
+  @apply text-3xl md:text-4xl font-display font-medium tracking-tight;
+}
+
+.heading-md {
+  @apply text-2xl md:text-3xl font-display font-medium tracking-tight;
+}
+
+.body-lg {
+  @apply text-lg leading-relaxed text-neutral-600;
+}
+
+.body-base {
+  @apply text-base leading-relaxed text-neutral-600;
+}
+
+.link-hover {
+  @apply transition-colors duration-200 hover:text-design-accent;
+}
+
